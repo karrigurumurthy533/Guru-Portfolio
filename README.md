@@ -41,7 +41,7 @@ I enjoy building interactive web applications, solving complex problems, and con
 
 ## 🖥️ Portfolio Website
 Check out my live portfolio here:  
-👉 [Portfolio](https://karrigurumurthy533.github.io/Gkportfolio/)
+👉 [Portfolio](https://guru-portfolio-olive.vercel.app/)
 
 ---
 
